@@ -1,0 +1,15 @@
+{
+  "version": "0.0.0",
+  "notes": "See the assets to download and install this version.",
+  "pub_date": "2024-05-10T11:24:12.676Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc201NkpZNGtlbzBUUERRc1VOUFUvenlDT0h2MlpUcEFKblp3Y3l6TFlIYnJpdEdFdUQzQUdoL21qamtyK1dDMTlQeGE3UWZWSUtZeWk5bStScnI0RWtmeWNjL09RUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1MzM4ODQxCWZpbGU6U3BhcmsuYXBwLnRhci5negorMCtYMW53eis4aXB6SWY0dmpmVUNKQU5wUHM4MDZxTmxnL0tKaVgrQWxLaytsU2x0T2dteHdrRmdzT2RUWUlnZWMyNDdIZ2h2YW5rZ1lhdjNQd0RBQT09Cg==",
+      "url": "https://github.com/sponge-learning/spark-offline/releases/download/78/merge/Spark_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc201NkpZNGtlbzFZVzBUQUtLK2xMc2c2RTlySjBrNFJ6OU1RbnRQMU5zNnUvVGRaN0R2a2tyUVBJZTdXckM5aVZrdXgwU2tYcEJUYk50YjE3VklJRjZVQjU0WjVRbndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1MzM5NzkwCWZpbGU6U3BhcmtfMC4wLjBfeDY0X2VuLVVTLm1zaS56aXAKWUpBcXBpTlN0amlFWDFQNURTSXpiMTNXWG9oNURXdHFmWGdPdXlTSENIbUtOL0JLUFg4aHFYNkx3NW9zcjdzM1ZmNEdSQWFEU0VhYm5zS0pPWGw3QWc9PQo=",
+      "url": "https://github.com/sponge-learning/spark-offline/releases/download/78/merge/Spark_0.0.0_x64_en-US.msi.zip"
+    }
+  }
+}
